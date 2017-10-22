@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">View Code</string>
+    <string-array name="id_http">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
